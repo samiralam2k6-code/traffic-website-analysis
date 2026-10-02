@@ -1,6 +1,6 @@
 
 # Traffic Website Analysis
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samiralam2k6-code/traffic-website-analysis/blob/main/Traffic_Website_Analysis.ipynb)
 ## 📌 Project Overview
 This project analyzes website traffic data to uncover insights about user engagement, traffic sources, and session durations using Python.
 
